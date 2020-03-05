@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "food",
+      "type": "top.codeaworld.config.FoodConfig",
+      "sourceType": "top.codeaworld.config.FoodConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "food.meat",
+      "type": "java.lang.String",
+      "sourceType": "top.codeaworld.config.FoodConfig"
+    },
+    {
+      "name": "food.rice",
+      "type": "java.lang.String",
+      "sourceType": "top.codeaworld.config.FoodConfig"
+    }
+  ],
+  "hints": []
+}
